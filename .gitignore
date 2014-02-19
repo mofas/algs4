@@ -1,0 +1,8 @@
+bin/
+checkstyle-*/
+findbugs-*/
+java/
+*.txt
+*.class
+*.lnk
+*.jar
