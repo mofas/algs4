@@ -6,3 +6,5 @@ java/
 *.class
 *.lnk
 *.jar
+
+*.sublime-*
