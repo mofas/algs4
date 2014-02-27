@@ -6,5 +6,6 @@ java/
 *.class
 *.lnk
 *.jar
-
+*.png
+*.zip
 *.sublime-*
